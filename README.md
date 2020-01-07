@@ -22,8 +22,8 @@
 掌握python语言基础操作，学会在pythonanywhere上成功架站
 
 ## 项目展示
-[使用Jupyter notebook做的图表和故事](http://xinqi3050.gitee.io/visual_end_project)
-[使用pythonanywhere的网站](http://ldfckk.pythonanywhere.com/)
+- [使用Jupyter notebook做的图表和故事](http://xinqi3050.gitee.io/visual_end_project)
+- [使用pythonanywhere的网站](http://ldfckk.pythonanywhere.com/)
 
 ### 17级《交互》评分点：
 #### 数据清洗和收集难度，数据集丰富程度
